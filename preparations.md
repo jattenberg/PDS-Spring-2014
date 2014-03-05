@@ -75,3 +75,5 @@ Putting it Together
 -------------------
 
 In order to check that everything is working, try writing a very simple python program. Begin editing a new file, `hello.py`. You can put this file anywhere. In this file, type `print "hello world!"`. This is your first very simple program. To test it out, open a terminal, and type `python hello.py`. The program should print out the requested message. Note that you way need to provide the terminal with the complete path to the hello.py program if it can't find it. 
+
+If you're looking to dig right into programming right away, I recommend checking out [Learn Python the Hard Way](http://learnpythonthehardway.org/book/). This is easy to read, and gives a primer on some python basics. Don't worry, we'll go over this stuff again in class. Remember that, we're using the anaconda distribution of python, and the text editor you installed from above, not what is suggested in Learn Python the Hard Way. 
