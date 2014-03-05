@@ -63,4 +63,15 @@ At the most fundamental level, programs are text that you need to write. There a
 
 Of course, at the end of the day, all you really need to do is write plain text documents, and there are many programs that can do this. Some students may be more familiar with vim or emacs or nano. These are also fine (in class, you'll see me using emacs). There are also more feature-rich programming environments, IDEs. These are also fine, but are a bit more than we'll be needing for this class. I also won't be able to help you with their setup and use. 
 
+Git and Github
+--------------
 
+Git is a version control system, a great way for keeping track of changes in the code you write, and an convenient way to share software amongst multiple developers. Github is a website allowing you to host your software, and share it with the web. Once you start writing some code, you can put your github on your resume to show off! You can also look at the source code for systems or projects that interest you, see how they tick. 
+
+The first step is to go to the [github site](https://github.com/) and create an account. [Instructions for setting up git](http://redmine.jamoma.org/projects/jamoma/wiki/Installing_and_setting_up_GIT) on Windows (using cygwin package management) or Mac are here, including how to configure your github account
+
+
+Putting it Together
+-------------------
+
+In order to check that everything is working, try writing a very simple python program. Begin editing a new file, `hello.py`. You can put this file anywhere. In this file, type `print "hello world!"`. This is your first very simple program. To test it out, open a terminal, and type `python hello.py`. The program should print out the requested message. Note that you way need to provide the terminal with the complete path to the hello.py program if it can't find it. 
