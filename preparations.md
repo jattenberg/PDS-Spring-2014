@@ -22,3 +22,45 @@ If you've spent 10 minutes looking online and are still stuck, please reach out 
 I want you to learn how to solve problems, but I don't want you spinning your 
 wheels. 
 
+Unix
+----
+
+Unix is a powerful operating system, a crucial component of modern data science systems.
+
+- Mac is already based on unix, (you can access unix shell through the "terminal" application). I prefer the [ITerm2](http://www.iterm2.com/#/section/home) shell application. I recommend Mac users install this.
+- Windows users need some kind of unix emulator. Please [install cygwin](http://jattenberg.github.io/PDS-Fall-2013/assets/install/CygwinInstallationGuide.pdf). Some additional [cygwin notes](http://lifehacker.com/179514/geek-to-live--introduction-to-cygwin-part-i).
+
+
+Python
+------
+
+Python is a powerful programming language, a central component of this course. It is broadly used in data science. However, despite python's power, it has a reputation as having a difficult to manage library system. Fortunately, the anaconda python distribution gives us all the libraries we'll be using in one convenient package. 
+
+- Mac instructions for [installing anaconda python](http://docs.continuum.io/anaconda/install.html#mac-install)
+- Windows instructions for [installing anaconda python](http://jattenberg.github.io/PDS-Fall-2013/assets/install/AnacondaPythonInstallationGuide.pdf) and getting it to work with cygwin. Note that you may wish to [check the anaconda site](http://continuum.io/downloads) for a more recent version of hte anaconda library.  [Official install documentation](http://docs.continuum.io/anaconda/install.html#windows-install).
+ 
+
+MySQL
+-----
+
+MySQL is a popular relational database application. I'll be setting up a database that we'll be referencing in class, you'll be installing software to interface with this database server. 
+
+- Mac: I've had luck with [Sequel Pro](http://www.sequelpro.com/). During class, I'll give instructions on how to connect this application to our database server.
+- Windows: Previous students have had luck with sqlyog. [Software downloads here](https://code.google.com/p/sqlyog/downloads/list). 
+ 
+Note that you can install the official MySQL client software using whatever package manager you like, or via the [MySQL website](http://www.mysql.com/).
+
+
+Text Editor
+-----------
+
+At the most fundamental level, programs are text that you need to write. There are special text editors that give extra information to programmers, coloring certain key words in an informative way, etc. I don't have much of a preference as to which text editor you use. 
+
+- [Sublime Text](http://www.sublimetext.com/) is a very powerful and popular text editor used by many programmers. I'd recommend this.
+- Mac: [TextWrangler](http://www.barebones.com/products/textwrangler/) has been used with some success by students in the past
+- Windows: [Notepad++](http://notepad-plus-plus.org/) has been used by previous students with Windows operating system.
+ 
+
+Of course, at the end of the day, all you really need to do is write plain text documents, and there are many programs that can do this. Some students may be more familiar with vim or emacs or nano. These are also fine (in class, you'll see me using emacs). There are also more feature-rich programming environments, IDEs. These are also fine, but are a bit more than we'll be needing for this class. I also won't be able to help you with their setup and use. 
+
+
