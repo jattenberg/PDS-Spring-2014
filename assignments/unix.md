@@ -5,7 +5,7 @@ Please download student skill survey results [here](https://raw.githubuserconten
 
 student_id, command line experience, relational database experience, programming experience
 
-For the following questions, collaborate with your group to find the right approaches, but please do the final work yourself. Use unix command line utilities to find the answers.
+For the following questions, collaborate with your group to find the right approaches, but please do the final work yourself. Use unix command line utilities to find the answers. Use NYU classes to submit your work. Please provide both the commands used and the answers found.
 
 1. How many students took the survey?
 2. How many students have no experience working with the terminal? How many don't even know what terminal experience means (hint: use grep)
