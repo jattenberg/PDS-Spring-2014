@@ -11,4 +11,6 @@ For the following questions, collaborate with your group to find the right appro
 2. How many students have no experience working with the terminal? How many don't even know what terminal experience means (hint: use grep)
 3. How many students have never programmed before? 
 4. What are the unique responses to the question on database skills? 
-5. Repeat question 4, this time also include the number of students responding with each particular answer. 
+5. Repeat question 4, this time also include the number of students responding with each particular answer.
+6. Write a small script that finds the 10 largest files on your computer (hint: use the `du` utility)
+7. Bonus: Automate the script from part 6. to run daily. Have the script email the results to you (hint: use the `mail` utility)
