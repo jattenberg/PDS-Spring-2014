@@ -1,5 +1,5 @@
-Example: Simple Data Processing in Python
------------------------------------------
+Example: Plotting and Processing in Python
+------------------------------------------
 
 Please download [`marketing.data`](https://raw.githubusercontent.com/jattenberg/PDS-Spring-2014/master/data/marketing.data). This data provides household income information according to demographic factors. Please see the [description here](https://github.com/jattenberg/PDS-Spring-2014/blob/master/data/marketing.info). Using this data, answer:
 
