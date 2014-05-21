@@ -24,24 +24,33 @@ Please download [`marketing.data`](https://raw.githubusercontent.com/jattenberg/
 
 8. Consider the following simple model of income level using only education level.
 Let 4 be the nominal income level, with the following adjustments in income level being made according to education:
-        | education level | income modifier |
-	| --- | --- |
-        | 1 | -3 |
-        | 2 | -1 |
-        | 3 | 0 |
-        | 4 | +1 |
-        | 5 | +3 |
-        | 6 | +4 |
+
+
+| education level | income modifier |
+|----------------:|-----------------|
+|        1        |        -3       |
+|        2        |        -1       |
+|        3        |        0        |
+|        4        |        +1       |
+|        5        |        +3       |
+|        6        |        +4       |
+
+
 What is the total difference between actual and predicted income level using the above model? What about the average difference per user? (Hint: again use a dict data structure, this time to store the modifiers of the model)
 9. Consider the following modification to the model presented in question 1 that additionally incorporates the following information about a person’s occupation:
-        occupation                income modifier
-                1                        +2.5
-                2                        +.6
-                3                        0
-                4                        +.2
-                5                        -.5
-                6                        -1.5
-                7                        +.3
-                8                        +.8
-                9                        -2.5
+
+
+| education level | income modifier |
+|----------------:|-----------------|
+|        1        |        +2.5     |
+|        2        |        -.6      |
+|        3        |        0        |
+|        4        |        +.2      |
+|        5        |        -.5      |
+|        6        |        -1.5     |
+|        7        |        +.3      |
+|        8        |        +.8      |
+|        9        |        -2.5     |
+
+
 In this setting, we are using a two parameter model to estimate an individual’s income, according to both occupation and education level. What is the total difference between actual and predicted income level using the above model? What about the average difference per user?  Is this better or worse than the model presented in question 1? Is this model more likely to overestimate or underestimate an individual’s income level?
