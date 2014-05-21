@@ -24,13 +24,14 @@ Please download [`marketing.data`](https://raw.githubusercontent.com/jattenberg/
 
 8. Consider the following simple model of income level using only education level.
 Let 4 be the nominal income level, with the following adjustments in income level being made according to education:
-        education level        income modifier
-                1                        -3
-                2                        -1
-                3                        0
-                4                        +1
-                5                        +3
-                6                        +4
+        | education level | income modifier |
+	| --- | --- |
+        | 1 | -3 |
+        | 2 | -1 |
+        | 3 | 0 |
+        | 4 | +1 |
+        | 5 | +3 |
+        | 6 | +4 |
 What is the total difference between actual and predicted income level using the above model? What about the average difference per user? (Hint: again use a dict data structure, this time to store the modifiers of the model)
 9. Consider the following modification to the model presented in question 1 that additionally incorporates the following information about a person’s occupation:
         occupation                income modifier
