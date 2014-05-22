@@ -10,4 +10,4 @@ This file contains infomration about various cities around the world.
 3. How many cities in the data are in the USA?
 4. What is the most populated city in the file?
 5. What is the most populated city in the USA?
-
+6. Write the top 5 most populated US cities to a file, USA.txt
