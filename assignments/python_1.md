@@ -38,6 +38,7 @@ Let 4 be the nominal income level, with the following adjustments in income leve
 
 
 What is the total difference between actual and predicted income level using the above model? What about the average difference per user? (Hint: again use a dict data structure, this time to store the modifiers of the model)
+
 9. Consider the following modification to the model presented in question 1 that additionally incorporates the following information about a person’s occupation:
 
 
