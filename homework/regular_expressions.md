@@ -7,7 +7,7 @@ Consider the [html document](https://raw.githubusercontent.com/jattenberg/PDS-Sp
 
 Work with your groups to find the best answers for the following questions using python and the `re` library, however, please type in your own responses and hand in your own work. I believe that you'll learn more by typing the code yourself, even if you reached the appropriate answer with others. 
 
-You may post your code and answers on github, posting the url to classes, or you may just copy your code and answers into a document, and host that to NYU classes. 
+You may post your code and answers on github, posting the url to classes, or you may just copy your code and answers into a document, and host that to NYU classes in PDF format. 
 
 
 1. Within the document, there are several student IDs (the column actually is titled E-mail). Extract these IDs from the html and print them to a file, one per line.
