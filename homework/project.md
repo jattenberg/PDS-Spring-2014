@@ -3,7 +3,7 @@ Group Project: Practical Data Science 2014
 
 This project simulates some of the components of building an actual "data science product", imagine you are contributing a new feature to the social e-commerce website, [Etsy](http://www.etsy.com). Work together with your group to perform the following tasks. There are some parts of this project that are left to your discretion, please answer in whatever way you feel is most interesting, or would be most useful for an actual product experience. Let us know what choices you make, and why, and, if applicable, discuss any unexplored alternatives. 
 
-Turn in one assignment per team, recording the names of all participating members. Along with your responses, please include all code and scripts used (in appendices), in addition to some sample output.
+Turn in one assignment per team, recording the names of all participating members. Along with your responses, please include all code and scripts used (in appendices), in addition to some sample output.  Remember to appropriately comment your code so it can be followed by others.
 
 Use google, course notes, and whatever resources you can muster in order to accomplish this assignment. If you remain stuck for very long with a particular detail, please reach out to the instructors for help. 
 
