@@ -15,7 +15,6 @@ You may post your code and answers on github, posting the url to classes, or you
 2. Constrain your search to print only those students with four letters in their last names or less. How many students were removed?
 
 3. For every student in the class, in addition to extracting their student ID, extract their name. Present the results by printing out, one student per line:
-
--> `first (and middle) name [tab] last name [tab] student id`  <-
+`first (and middle) name [tab] last name [tab] student id`
 
 4. (Optional) The E-mail column seems misnamed. Create a new html document that replaces all student ids in this field with student email addresses.
