@@ -21,6 +21,12 @@ Hint: Chapter 6 in Professor Provost's Data Science book is all about similarity
 
 4. Is there any other shop-related information that could be incorporated in order to make more useful similarity measures? Write a script that gathers this additional data, and incorporates it into your similarity measures. Explain why this is beneficial (or not).
 
+Project Requirements:
+a.  Final report must be in PDF format.
+b.  Cover page should include Team Number and Member Names, and Class Name
+c.  List of all scripts with descriptions of each script should be included in an appendix.
+c.  Python scripts and Unix code should be included in an appendix.
+d.  List outlining each team member's contribution should be included in an appendix.
 
 When gathering data from Etsy, use the [Etsy API](http://developer.etsy.com/). I recommend using python's [`urllib2`](https://docs.python.org/2/howto/urllib2.html) library, but any resource will do, including other python libraries or unix utilities like `wget` or `curl`.  Making requests requires an API key, this will be provided in NYU classes as a course resource. Don't share this!
 
