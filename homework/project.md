@@ -8,7 +8,7 @@ Turn in one assignment per team, recording the names of all participating member
 Use google, course notes, and whatever resources you can muster in order to accomplish this assignment. If you remain stuck for very long with a particular detail, please reach out to the instructors for help. 
 
 
-
+Each numbered item is worth 25 points.
 
 1. Write a script which finds 5000 different shops on Etsy using the API (info below), and returns a sample of those shops listings. Store this shop/listing info in file in sensible structure using json format (info below).
 
@@ -17,7 +17,7 @@ should run on the command line (for instance, by calling `python your_similarity
 `shop_name: similar_shop_1, similar_shop_2, ..., similar_shop_5`
 Hint: Chapter 6 in Professor Provost's Data Science book is all about similarity measures. [Cosine similarity with TF-IDF weights](http://stackoverflow.com/a/12128777) is a good possiblity, but there are many others.
 
-3. Explain why you think the algorithm you chose leads to useful similarities amongst the shops, and how its results might be integrated into Etsy as a product. What are other distance measures you might have considered? Why is your distance measure more interesting or better suited to the task of identifying similar shops? The explanation should be at the depth and length that you might use when emailing your team; less than a paper or blog post, more than a commit message. Remember that communication is critical for the data scientist, particularly, the summarization of complex ideas.
+3. Explain why you think the algorithm you chose leads to useful similarities amongst the shops, and how its results might be integrated into Etsy as a product. What are other distance measures you might have considered? Why is your distance measure more interesting or better suited to the task of identifying similar shops? The explanation should be at the depth and length that you might use when emailing your team; less than a paper or blog post, more than a commit message. Remember that communication is critical for the data scientist, particularly, the summarization of complex ideas.  Feel free to include tables and graphs to support your explanation.
 
 4. Is there any other shop-related information that could be incorporated in order to make more useful similarity measures? Write a script that gathers this additional data, and incorporates it into your similarity measures. Explain why this is beneficial (or not).
 
