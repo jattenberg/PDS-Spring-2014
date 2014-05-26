@@ -16,7 +16,7 @@ DIY Data Utilities:
 
 5. There are many times where a data scientist gets some columnar data and wants to simply plot it. Make a python script (a .py file) that can a take single column of numerical data from the command line via a unix pipe display that data in a plot. Hint: use the stdin function in the sys module. Hint 2: you can run a python file from the unix terminal by typing: `python [your_py_file].py`
 6. Make a script similar that used in question 5 that makes a histogram instead of a line plot.
-7. (bonus) Extend question 5 so that the script can read multiple columns of input data instead of just 1. Plot them together in the same plot window.
+7. (bonus) Extend the first plotting question so that the script can read multiple columns of input data instead of just 1. Plot them together in the same plot window.
 
 Income Prediction:
 Please download [`marketing.data`](https://raw.githubusercontent.com/jattenberg/PDS-Spring-2014/master/data/marketing.data). This data provides household income information according to demographic factors. Please see the [description here](https://github.com/jattenberg/PDS-Spring-2014/blob/master/data/marketing.info). Using this data, answer:
