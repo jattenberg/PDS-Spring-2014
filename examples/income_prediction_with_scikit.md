@@ -10,3 +10,4 @@ This work extends from the [previous example](https://github.com/jattenberg/PDS-
 3. Train a [decision tree classifier](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier) on the data.
 4. Train a [decision tree regressor](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html#sklearn.tree.DecisionTreeRegressor) on the data.
 5. Train a [support vector classifier](http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) on the data. 
+6. Instead of training a model on all available input data, partition the input data into "training" and "test" sets. Fit the above models to the training sets, and get predictions for the examples in the test set.
