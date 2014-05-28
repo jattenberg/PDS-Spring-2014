@@ -5,7 +5,7 @@ Please download [`marketing.data`](https://raw.githubusercontent.com/jattenberg/
 
 This work extends from the [previous example](https://github.com/jattenberg/PDS-Spring-2014/blob/master/examples/simple_plotting_with_python.md) on data manipulation and plotting.
 
-1. Read in the input data using `urllib2`. Filter out any lines that have unavailable fields (with NA). Convert numbers to numeric types using `float(x)`.
+1. Read in the input data using `urllib2`. Filter out any lines that have unavailable fields (with NA). Convert numbers to numeric types using `int(x)`.
 2. Split the data into a list of lists of feature values and a list of target values. 
 3. Train a [decision tree classifier](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier) on the data.
 4. Train a [decision tree regressor](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html#sklearn.tree.DecisionTreeRegressor) on the data.
