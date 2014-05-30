@@ -1,7 +1,7 @@
 Python Assignment 1: PDS Spring 2014
 ------------------------------------
 
-For the following questions, collaborate with your group to find the right approaches, but please do the final work yourself. Use python to find the answers. Upload both your code and the responses to github in a dedicated folder. Post the link to the folder on github to NYU classes (PDF format).
+For the following questions, collaborate with your group to find the right approaches, but please do the final work yourself. Use python to find the answers. Post both your code and responses / examples of use to NYU classes (PDF format).
 
 Please download student skill survey results [here](https://raw.githubusercontent.com/jattenberg/PDS-Spring-2014/master/data/survey_anon.txt). Use the unix wget or curl utility. The file is in a tab-separated data format, the rows of this data correspond to: 
 
